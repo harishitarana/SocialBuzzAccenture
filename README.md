@@ -49,13 +49,12 @@ to prove to them that we are the best firm to work with. They are expecting the 
 - Recommendations for a successful IPO 
 - An analysis of their content categories that highlights the top 5 categories with the 
 largest aggregate popularity  <br />
-Tasks to be delegated:  <br />
+Tasks to be delegated:  
 - Creation of an up-to-date big data best practices presentation 
 - Extraction of sample data sets using SQL 
 - On-site audit of their data-center 
 - Merging of sample data set tables 
-- Virtual session with Social Buzz team to present previous client success stories relevant 
-to them 
+- Virtual session with Social Buzz team to present previous client success stories relevant to them 
 - Preparation of best practice document for IPO 
 - Loading of sample data sets into Accenture sandbox database 
 - Technology architecture workshop with Social Buzz Data Team to understand their 
