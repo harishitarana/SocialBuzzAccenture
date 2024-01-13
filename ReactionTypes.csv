@@ -1,0 +1,17 @@
+Type,Sentiment,Score
+heart,positive,60.00
+want,positive,70.00
+disgust,negative,0.00
+hate,negative,5.00
+interested,positive,30.00
+indifferent,neutral,20.00
+love,positive,65.00
+super love,positive,75.00
+cherish,positive,70.00
+adore,positive,72.00
+like,positive,50.00
+dislike,negative,10.00
+intrigued,positive,45.00
+peeking,neutral,35.00
+scared,negative,15.00
+worried,negative,12.00
